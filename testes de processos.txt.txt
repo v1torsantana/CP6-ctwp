@@ -1,0 +1,13 @@
+
+========================== 
+Data inicial: 12 
+Data final: 20  
+Data Atual: 0 
+Completude real: 1.0 
+Completude planejada: 2.0  
+Responsável: vitor  
+Descrição: abc 
+Plano de atraso: cba 
+========================== 
+
+

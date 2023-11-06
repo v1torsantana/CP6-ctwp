@@ -1,0 +1,6 @@
+
+6/11/2023 --- 17:42 -- "Vinho 5" (5 itens) removido(s) do estoque.
+6/11/2023 --- 17:44 -- "Vinho 4" (200 itens) removido(s) do estoque.
+6/11/2023 --- 17:44 -- "Vinho 5" (200 itens) removido(s) do estoque.
+6/11/2023 --- 17:45 -- "Vinho 1" (20 itens) removido(s) do estoque.
+6/11/2023 --- 17:47 -- "Vinho 6(2001 itens)" adicionado ao estoque.
